@@ -15,7 +15,7 @@
 
 package main
 //go：两数之和
-
+//git合并测试-首先变更
 
 //leetcode submit region begin(Prohibit modification and deletion)
 func twoSum(nums []int, target int) []int {
